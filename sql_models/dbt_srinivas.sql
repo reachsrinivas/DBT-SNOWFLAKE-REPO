@@ -1,0 +1,1 @@
+select * from DBT_ECOMM.DBT_SK.EMPLOYEES
